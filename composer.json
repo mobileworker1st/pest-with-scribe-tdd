@@ -3,6 +3,7 @@
   "description": "pest-with-scribe-tdd is a library that extends the default scribeTDD to include the possibility of using ajcastro-scribe-tdd with PHP Pest. To ensure proper functionality, internal changes were made to the libraries, such as compatibility with PHPUnit 11.4.",
   "type": "library",
   "license": "MIT",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "ajcastro",
@@ -27,6 +28,5 @@
         "AjCastro\\ScribeTdd\\ScribeTddServiceProvider"
       ]
     }
-  },
-  "version": "1.0.1"
+  }
 }
