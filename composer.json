@@ -13,7 +13,9 @@
       "email": "fabio@mobilestock.com.br"
     }
   ],
-  "require": {},
+  "require": {
+    "knuckleswtf/scribe": "^4.38"
+  },
   "autoload": {
     "psr-4": {
       "AjCastro\\ScribeTdd\\": "src/"
@@ -25,5 +27,6 @@
         "AjCastro\\ScribeTdd\\ScribeTddServiceProvider"
       ]
     }
-  }
+  },
+  "version": "1.0.1"
 }
