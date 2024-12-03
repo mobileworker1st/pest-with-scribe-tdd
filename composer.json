@@ -1,5 +1,5 @@
 {
-  "name": "mobilestock/pest-with-scribe-tdd",
+  "name": "mobileWorker1st/pest-with-scribe-tdd",
   "description": "pest-with-scribe-tdd is a library that extends the default scribeTDD to include the possibility of using ajcastro-scribe-tdd with PHP Pest. To ensure proper functionality, internal changes were made to the libraries, such as compatibility with PHPUnit 11.4.",
   "type": "library",
   "license": "MIT",
